@@ -1,0 +1,16 @@
+.container{
+width: 500px;
+height: 500px;
+background-color: green;
+border: 2px red solid;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.A{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border: 2px red solid;
+}

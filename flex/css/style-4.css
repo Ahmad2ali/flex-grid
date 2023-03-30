@@ -1,0 +1,38 @@
+
+.A{
+  margin: 1px;
+background-color: aqua;
+height: 100px;
+text-align: center;
+
+}
+
+.container-2{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+div div{
+    margin: 0 1px;
+   width: 250px;
+   height: 250px;
+    background-color:blue;
+     text-align:center;
+
+   
+}
+
+.B{
+    background-color: aqua;
+height: 100px;
+text-align: center;
+margin: 1px;
+}
+
+
+
+
+
+
+
